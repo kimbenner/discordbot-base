@@ -1,3 +1,8 @@
+# 🚧사용 조건
+
+- [Node.js 16+](https://nodejs.org/ko/download/)
+- [discord.js@13.6.0](https://www.npmjs.com/package/discord.js/v/13.6.0)
+
 # 디스코드 DISALLOWED_INTENTS 해결방법
 
 아래에 있는 사진처럼 활성화 해주세요
