@@ -1,5 +1,5 @@
 {
-  "name": "discordbot-base",
+  "name": "js-discordbot-base",
   "version": "1.0.0",
   "description": "아래에 있는 사진처럼 활성화 해주세요",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimbenner/discordbot-base.git"
+    "url": "git+https://github.com/kimbenner/js-discordbot-base.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kimbenner/discordbot-base/issues"
+    "url": "https://github.com/kimbenner/js-discordbot-base/issues"
   },
-  "homepage": "https://github.com/kimbenner/discordbot-base#readme",
+  "homepage": "https://github.com/kimbenner/js-discordbot-base#readme",
   "dependencies": {
     "discord.js": "^13.6.0",
     "fs": "^0.0.1-security"
